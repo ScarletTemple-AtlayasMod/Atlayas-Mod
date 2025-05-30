@@ -1,4 +1,4 @@
-using AtlayasMod.Common.Projectiles;
+using AtlayasMod.Content.Projectiles;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using System;
@@ -42,7 +42,7 @@ namespace AtlayasMod.Common.Systems
             if (!Main.dedServ)
             {
                 // Register music
-                WrathOfTheWindMusicSlot = MusicLoader.GetMusicSlot(Mod, "AtlayasMod/Assets/Music/Wrath Of The Wind");
+                WrathOfTheWindMusicSlot = MusicLoader.GetMusicSlot(Mod, "AtlayasMod/Assets/Music/WrathOfTheWind");
                 /*
                 // Load particle texture (fallback to MagicPixel if not found)
                 if (ModContent.HasAsset("AtlayasMod/Assets/Images/HurricaneParticle"))

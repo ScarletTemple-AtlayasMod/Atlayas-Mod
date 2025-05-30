@@ -13,6 +13,53 @@ Items: {
 
 	SelsaOre: {
 		DisplayName: Selsa Ore
+		Tooltip: Suprisingly better than tin and copper
+	}
+
+	AtlayasTitleBox: {
+		DisplayName: Atlayas Title Box
 		Tooltip: ""
+	}
+
+	SirenHeadBox: {
+		DisplayName: Siren Head Box
+		Tooltip: ""
+	}
+
+	Bassderbuss: {
+		DisplayName: Bassderbuss
+		Tooltip: ""
+	}
+
+	AutumnBow: {
+		DisplayName: Autumn Bow
+		Tooltip: Waste twice as many arrow
+	}
+
+	AutumnSword: {
+		DisplayName: Autumn Sword
+		Tooltip: You feel cool when you swing this thing
+	}
+
+	SelsaGun: {
+		DisplayName: Selsa Gun
+		Tooltip: Run out of bullet way quicker!
+	}
+
+	SelsaSword: {
+		DisplayName: Selsa Sword
+		Tooltip: A completely normal sword
+	}
+}
+
+Projectiles: {
+	LightningProjectile.DisplayName: Lightning Projectile
+	BassBlast.DisplayName: Bass Blast
+}
+
+Biomes: {
+	HurricaneOceanBiome: {
+		DisplayName: Hurricane Ocean Biome
+		TownNPCDialogueName: the Hurricane Ocean Biome
 	}
 }
