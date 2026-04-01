@@ -1,13 +1,8 @@
-
-using Microsoft.Xna.Framework;
-using Terraria;
 using Terraria.ID;
-using Terraria.ModLoader;
-using AtlayaasMod.Content.Items;
 
-namespace AtlayaasMod.Content.Items.Weapons
+namespace AtlayasMod.Content.Items.Weapons
 {
-	public class AshWoodDagger: ModItem
+    public class AshWoodDagger: ModItem
 	{
 		public override void SetDefaults() {
 			Item.width = 32; // The item texture's width.

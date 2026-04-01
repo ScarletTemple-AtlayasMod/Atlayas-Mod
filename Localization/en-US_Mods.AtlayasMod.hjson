@@ -50,6 +50,11 @@ Items: {
 		DisplayName: Selsa Sword
 		Tooltip: A completely normal sword
 	}
+
+	AshWoodDagger: {
+		Tooltip: ""
+		DisplayName: Ash Wood Dagger
+	}
 }
 
 Projectiles: {
@@ -63,3 +68,5 @@ Biomes: {
 		TownNPCDialogueName: the Hurricane Ocean Biome
 	}
 }
+
+NPCs.CinderClaw.DisplayName: Cinder Claw
